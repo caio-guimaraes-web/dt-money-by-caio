@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Pastel de flango",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-01-10T21:32:26.775Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de banana",
+      "price": 9,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-01-10T21:32:57.170Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2025-01-10T21:35:24.702Z",
+      "id": 6
     }
   ]
 }
